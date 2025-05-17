@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img syle="vertical-align=center;" height="200" width="500" src="https://github-readme-streak-stats.herokuapp.com?user=jayabhargavb&theme=midnight-purple&fire=ff4a00"/> 
+
 <!--
 **jayabhargavb/jayabhargavb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
